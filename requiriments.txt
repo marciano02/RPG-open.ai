@@ -1,0 +1,3 @@
+In our code me and matheus (@RobertTrolls), we used all of these packages:
+openai 0.28.1
+vosk 0.3.45
