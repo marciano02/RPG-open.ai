@@ -3,7 +3,7 @@ import time
 import openai
 import apikey
 
-openai.api_key = "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"
+openai.api_key = "################################"
 
 cont = "S"
 
