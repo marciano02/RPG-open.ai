@@ -2,4 +2,4 @@
 # vosk 0.3.45
 # time
 # os
-# apikey
+# apikey 23.2.1
