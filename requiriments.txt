@@ -1,5 +1,10 @@
+# ---- Requirements Python Packages -----
 # openai 0.28.1
-# vosk 0.3.45
 # time
 # os
 # apikey 23.2.1
+# speech_recognition 3.10.0
+# gtts 2.4.0
+# pyaudio 0.2.14
+# tempfile
+# wave
