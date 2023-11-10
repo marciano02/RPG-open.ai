@@ -10,7 +10,7 @@ import wave
 
 r = sr.Recognizer()
 
-openai.api_key = "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"
+openai.api_key = "#########################"
 
 cont = "S"
 
